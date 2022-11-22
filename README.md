@@ -46,7 +46,11 @@ A définir
 * HTML5/CSS3
 * [Boostrap](https://getbootstrap.com/)
 
-## Contribution Hell world
+<<<<<<< HEAD
+## Contribution Hell 
+=======
+## Contribution Bonjour TOUT LE MONDE
+>>>>>>> 4ed43027746e4846681fe49caa7ba353780ed88d
 
 Merci de lire les fichiers :
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
